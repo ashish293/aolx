@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "458669617082",
+    "project_id": "olxp-dc868",
+    "storage_bucket": "olxp-dc868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458669617082:android:ce96a2be84ca82fe08f783",
+        "android_client_info": {
+          "package_name": "com.aolx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458669617082-q2idolt570a1265cev1brafu038i09vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOyRkYKvZx9e4xc4tpNr_YOBpDXrVp_lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458669617082-q2idolt570a1265cev1brafu038i09vq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458669617082-m4vdog3aho4ro7j0nq44d7a302934t8m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
